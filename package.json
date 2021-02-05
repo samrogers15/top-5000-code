@@ -1,0 +1,25 @@
+{
+  "name": "13-Top5000Code",
+  "version": "1.0.0",
+  "description": "* Now that we have learned how to import big collections of data into a server, it is time to put this new knowledge to the test by importing all of the data contained within `TopSongs.csv` into our database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrogers15/top-5000-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samrogers15/top-5000-code/issues"
+  },
+  "homepage": "https://github.com/samrogers15/top-5000-code#readme"
+}
